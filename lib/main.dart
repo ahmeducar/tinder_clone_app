@@ -17,8 +17,8 @@ void main() async {
 
   //* supabase bağlantısı için
   await Supabase.initialize(
-    url: 'https://xxjfujpavkvsxtieawsy.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4amZ1anBhdmt2c3h0aWVhd3N5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY5NzI0NTAsImV4cCI6MjA2MjU0ODQ1MH0.AnWOAQSGD-7xaImfqDceG5epo0Ldqb0A_yV3Eni6zjo',
+    url: 'amdsajdmasdjasmdjad',
+    anonKey: 'asdmajdamsdajdsmajdmdaj',
   );
 
   //* themeProvider kullanıyorum onun için

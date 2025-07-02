@@ -47,29 +47,29 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAJSkFIOtIGvc_g0U-8HDF5RoYHVG1TLyY',
-    appId: '1:108435792034:web:cf3fbe73b7fbb349deb7fb',
-    messagingSenderId: '108435792034',
-    projectId: 'mygameapp-fcf45',
-    authDomain: 'mygameapp-fcf45.firebaseapp.com',
-    storageBucket: 'mygameapp-fcf45.firebasestorage.app',
-    measurementId: 'G-3VETK8CH5D',
+    apiKey: 'amdasjdmsadj',
+    appId: 'asdmajdmadj',
+    messagingSenderId: 'asdmadjasdmsaj',
+    projectId: 'asdmadjamdasj',
+    authDomain: 'samdajdmsadjamdajd',
+    storageBucket: 'amdajhdasmdsajdmasjd',
+    measurementId: 'admsajdamdajdmadj',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDZk-0knR8CmRf3GAY3nyYan0ozB7ShE48',
-    appId: '1:108435792034:android:86431f9a4fd7640cdeb7fb',
-    messagingSenderId: '108435792034',
-    projectId: 'mygameapp-fcf45',
-    storageBucket: 'mygameapp-fcf45.firebasestorage.app',
+    apiKey: 'amdasjdmsadjadjad',
+    appId: 'adsmadjamdsajdmadj',
+    messagingSenderId: 'asdmadjasmdajda',
+    projectId: 'asdmadjsamdajdmadja',
+    storageBucket: 'amdajdamsdjadmsdja',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC8FvhMMFhrzlPiGDZg4XT5a51NbcII0WA',
-    appId: '1:108435792034:ios:20e2a618a9868706deb7fb',
-    messagingSenderId: '108435792034',
-    projectId: 'mygameapp-fcf45',
-    storageBucket: 'mygameapp-fcf45.firebasestorage.app',
-    iosBundleId: 'com.example.myGameApp',
+    apiKey: 'admsajdamdajsdmadjsamdajd',
+    appId: 'admadjsamdajdmsadja',
+    messagingSenderId: 'asdmadjasmdhadjmdsa',
+    projectId: 'amdajdmasdjasdmajda',
+    storageBucket: 'dmasdjadmasjdmdjad',
+    iosBundleId: 'admjadmasdjamdsajd',
   );
 }
